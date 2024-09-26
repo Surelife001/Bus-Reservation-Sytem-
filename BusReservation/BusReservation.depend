@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721315641 source:c:\users\user\desktop\sam\busreservation\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
